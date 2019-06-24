@@ -1,6 +1,3 @@
-#changes have been made.
-
-
 def calculation (a,b):
     return a * b
 
