@@ -1,4 +1,5 @@
 def calculation (a,b):
+
     return a * b
 
 if(__name__ == "__main__"):
@@ -6,3 +7,4 @@ if(__name__ == "__main__"):
     print ("Millman")
     print("Piga")
     print("Hasson")
+    print("Lai")
