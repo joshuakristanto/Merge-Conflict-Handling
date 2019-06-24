@@ -1,8 +1,8 @@
+<<<<<<< HEAD
 # Natan Vargas
 
 def calculation (a,b):
-
-	return a * b
+	return a*b
 
 
 if __name__ == '__main__':
@@ -14,3 +14,9 @@ if __name__ == '__main__':
     print('Hamm')
     print("Kristanto")
     print("Ya-hoo!!!")
+    print("Lopez")
+    print('Hamm')
+    print("Kristanto")
+    print("Ya-hoo!!!")
+    print("delarosa")
+    print("Eng")
