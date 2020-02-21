@@ -10,7 +10,7 @@ if __name__ == '__main__':
     print("Hasson")
     print("bermudez")
     print('Hamm')
-    print("Kristanto")
+    print("Akshay")
     print("Ya-hoo!!!")
     print("Lopez")
     print('Hamm')
