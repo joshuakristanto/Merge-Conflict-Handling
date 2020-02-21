@@ -1,4 +1,5 @@
-aayyyyy
+
+print("dwiti")
 def calculation (a,b):
 	return a*b
 
