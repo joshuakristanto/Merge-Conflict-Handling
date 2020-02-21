@@ -12,6 +12,7 @@ if __name__ == '__main__':
     print('Hamm')
     print('david')
     print("Kristanto")
+    print ("Nuval")
     print("Ya-hoo!!!")
     print("Lopez")
     print('Hamm')
