@@ -1,4 +1,4 @@
-aayyyyy
+# aayyyyy
 def calculation (a,b):
 	return a*b
 
@@ -6,7 +6,8 @@ def calculation (a,b):
 if __name__ == '__main__':
     print(calculation(2, 3))
     print('Vargas')
-    print("Piga")hdjhssnbs
+    print("Piga")
+    # hdjhssnbs
     print("Hasson")
     print("bermudez")
     print('Hamm')
@@ -22,5 +23,5 @@ if __name__ == '__main__':
 
     print('San Agustin')
     print("TESTER")
-    print('San nick)
+    print('San nick')
 
