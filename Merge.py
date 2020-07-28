@@ -1,4 +1,4 @@
-# aayyyyy
+# aayyyyy ok
 def calculation (a,b):
 	return a*b
 
