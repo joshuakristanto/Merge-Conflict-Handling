@@ -25,6 +25,7 @@ if __name__ == '__main__':
     print("TESTER")
     print('San nick')
     print('Manoael')
+    print('KRISTANTO3')
     print('Hernandez')
 
 
