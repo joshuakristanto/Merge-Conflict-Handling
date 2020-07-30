@@ -24,4 +24,37 @@ if __name__ == '__main__':
     print('San Agustin')
     print("TESTER")
     print('San nick')
+
     print("Cruz")
+
+    print('Limbu')
+
+
+
+
+    
+    print("Maksymilian")
+
+
+
+
+    print('Almanza')
+
+    print('VARGAS')
+
+    print('Manoael')
+
+    print("Rios")
+    print('KRISTANTO3')
+    print('Hernandez')
+    print('Petra')
+
+
+    
+
+
+
+    print('Rafaela')	
+
+
+
