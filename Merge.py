@@ -25,5 +25,10 @@ if __name__ == '__main__':
     print("TESTER")
     print('San nick')
     print('VARGAS')
-    
+    print('Manoael')
+    print("Rios")
+    print('KRISTANTO3')
+    print('Hernandez')
+    print('Petra')
+    print('Rafaela')	
 
