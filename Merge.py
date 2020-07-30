@@ -28,6 +28,8 @@ if __name__ == '__main__':
     print("Cruz")
 
     print('Limbu')
+    
+    print('Pham')
 
 
 
