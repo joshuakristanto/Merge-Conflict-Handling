@@ -24,7 +24,11 @@ if __name__ == '__main__':
     print('San Agustin')
     print("TESTER")
     print('San nick')
+<<<<<<< HEAD
     print("Rios2")
+=======
+    print("Rios")
+>>>>>>> rios
     print('KRISTANTO3')
     print('Hernandez')
 
