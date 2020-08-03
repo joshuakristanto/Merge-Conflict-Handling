@@ -24,6 +24,10 @@ if __name__ == '__main__':
     print('San Agustin')
     print("TESTER")
     print('San nick')
+
+
+    print("nguyen")
+
     print("Palencia")
 
     print("Cruz")
@@ -49,6 +53,7 @@ if __name__ == '__main__':
 
     print("Rios")
     print('KRISTANTO3')
+
     print('Hernandez')
     print('Petra')
 
@@ -58,6 +63,7 @@ if __name__ == '__main__':
 
 
     print('Rafaela')	
+
 
 
 
