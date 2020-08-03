@@ -20,9 +20,52 @@ if __name__ == '__main__':
     print("Ya-hoo!!!")
     print("delarosa")
     print("Eng")
+    print("Maddela31")
 
     print('San Agustin')
     print("TESTER")
     print('San nick')
+
+
+    print("nguyen")
+
+    print("Palencia")
+
+    print("Cruz")
+
+    print('Limbu')
+    
+    print('Pham')
+
+
+
+
+    
+    print("Maksymilian")
+
+
+
+
+    print('Almanza')
+
+    print('VARGAS')
+
+    print('Manoael')
+
+    print("Rios")
+    print('KRISTANTO3')
+
     print('Hernandez')
-	print('Corral')
+    print('Corral')
+    print('Petra')
+
+
+    
+
+
+
+    print('Rafaela')	
+
+
+
+
