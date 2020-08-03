@@ -26,7 +26,7 @@ if __name__ == '__main__':
     print('San nick')
 
     print("Rios2")
-
+>>>>>>>>> Temporary merge branch 2
     print('KRISTANTO3')
     print('Hernandez')
 
