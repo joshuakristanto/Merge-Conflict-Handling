@@ -27,3 +27,4 @@ if __name__ == '__main__':
     print('PetraPetra')
     print('moreWords')
     print('more and more')
+    print('another push')
